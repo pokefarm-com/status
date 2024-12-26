@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pokefarm.com.ico",
     "slug": "pfq-main-site",
     "status": "up",
-    "uptime": "6.56%",
-    "uptimeDay": "6.56%",
-    "uptimeWeek": "6.56%",
-    "uptimeMonth": "6.56%",
-    "uptimeYear": "6.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 130,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2024-12-26": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PFQ Wiki",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pokefarm.wiki.ico",
     "slug": "pfq-wiki",
     "status": "up",
-    "uptime": "3.46%",
-    "uptimeDay": "3.46%",
-    "uptimeWeek": "3.46%",
-    "uptimeMonth": "3.46%",
-    "uptimeYear": "3.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 406,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
-    "dailyMinutesDown": {
-      "2024-12-26": 39
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PFQ API",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pokefarm.com.ico",
     "slug": "pfq-api",
     "status": "up",
-    "uptime": "6.50%",
-    "uptimeDay": "6.50%",
-    "uptimeWeek": "6.50%",
-    "uptimeMonth": "6.50%",
-    "uptimeYear": "6.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 190,
     "timeWeek": 190,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2024-12-26": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PFQ Discord Bot",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfq.moons.bio.ico",
     "slug": "pfq-discord-bot",
     "status": "up",
-    "uptime": "46.83%",
-    "uptimeDay": "46.83%",
-    "uptimeWeek": "46.83%",
-    "uptimeMonth": "46.83%",
-    "uptimeYear": "46.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 635,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {
-      "2024-12-26": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
