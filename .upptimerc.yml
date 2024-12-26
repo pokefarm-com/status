@@ -10,7 +10,7 @@ sites:
   - name: PFQ API
     url: https://api.pokefarm.com/health
   - name: PFQ Discord Bot
-    url: https://pfq.moons.bio
+    url: https://pfq.moons.bio/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
