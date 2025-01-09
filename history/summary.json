@@ -22,7 +22,7 @@
     "url": "https://pokefarm.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/pokefarm.wiki.ico",
     "slug": "pfq-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1003,
     "timeMonth": 861,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   },
   {
     "name": "PFQ API",
