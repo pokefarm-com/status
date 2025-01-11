@@ -1,7 +1,7 @@
 url: https://pfq.moons.bio/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-11T02:57:43.590Z
+status: up
+code: 200
+responseTime: 615
+lastUpdated: 2025-01-11T03:25:19.976Z
 startTime: 2024-12-26T14:38:28.025Z
 generator: Upptime <https://github.com/upptime/upptime>
