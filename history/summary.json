@@ -60,7 +60,7 @@
     "url": "https://pfq.moons.bio/health",
     "icon": "https://icons.duckduckgo.com/ip3/pfq.moons.bio.ico",
     "slug": "pfq-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 607,
     "timeMonth": 644,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-11": 0
+    }
   }
 ]
