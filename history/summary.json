@@ -4,10 +4,10 @@
     "url": "https://pokefarm.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/pokefarm.com.ico",
     "slug": "pfq-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
@@ -15,7 +15,9 @@
     "timeWeek": 447,
     "timeMonth": 374,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 2
+    }
   },
   {
     "name": "PFQ Wiki",
@@ -42,7 +44,7 @@
     "url": "https://api.pokefarm.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.pokefarm.com.ico",
     "slug": "pfq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 571,
     "timeMonth": 584,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "PFQ Discord Bot",
