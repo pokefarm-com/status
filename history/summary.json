@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 367,
-    "timeDay": 454,
-    "timeWeek": 349,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 365,
+    "timeDay": 213,
+    "timeWeek": 348,
+    "timeMonth": 363,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2025-01-28": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pokefarm.wiki.ico",
     "slug": "pfq-wiki",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1132,
-    "timeDay": 1244,
-    "timeWeek": 1345,
-    "timeMonth": 1278,
-    "timeYear": 1132,
+    "uptimeYear": "99.98%",
+    "time": 1130,
+    "timeDay": 1001,
+    "timeWeek": 1313,
+    "timeMonth": 1154,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-01-09": 25
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 560,
-    "timeDay": 461,
-    "timeWeek": 612,
-    "timeMonth": 589,
+    "timeDay": 565,
+    "timeWeek": 617,
+    "timeMonth": 585,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-01-28": 20
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 645,
-    "timeDay": 566,
-    "timeWeek": 721,
-    "timeMonth": 647,
-    "timeYear": 645,
+    "time": 647,
+    "timeDay": 762,
+    "timeWeek": 717,
+    "timeMonth": 650,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2025-01-11": 28
     }
