@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 369,
-    "timeDay": 216,
-    "timeWeek": 411,
-    "timeMonth": 363,
-    "timeYear": 369,
+    "time": 368,
+    "timeDay": 266,
+    "timeWeek": 412,
+    "timeMonth": 362,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2025-01-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1139,
-    "timeDay": 1014,
-    "timeWeek": 1231,
-    "timeMonth": 1191,
-    "timeYear": 1139,
+    "time": 1137,
+    "timeDay": 1025,
+    "timeWeek": 1215,
+    "timeMonth": 1185,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2025-01-09": 25
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 564,
-    "timeDay": 468,
-    "timeWeek": 611,
-    "timeMonth": 601,
+    "timeDay": 503,
+    "timeWeek": 574,
+    "timeMonth": 593,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2025-01-28": 20
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfq.moons.bio.ico",
     "slug": "pfq-discord-bot",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 649,
-    "timeDay": 377,
-    "timeWeek": 668,
-    "timeMonth": 677,
-    "timeYear": 649,
+    "uptimeYear": "99.98%",
+    "time": 645,
+    "timeDay": 356,
+    "timeWeek": 606,
+    "timeMonth": 661,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-01-11": 28
     }
