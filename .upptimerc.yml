@@ -8,7 +8,7 @@ sites:
   - name: PFQ Wiki
     url: https://pokefarm.wiki
   - name: PFQ API
-    url: https://api.pokefarm.com/health
+    url: https://api.pokefarm.com/v1/health
   - name: PFQ Discord Bot
     url: https://pfq.moons.bio/health
 
