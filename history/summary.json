@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 376,
-    "timeDay": 299,
-    "timeWeek": 326,
-    "timeMonth": 341,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 269,
+    "timeWeek": 322,
+    "timeMonth": 340,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-01-28": 21
     }
@@ -26,15 +26,15 @@
     "slug": "pfq-wiki",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1155,
-    "timeDay": 1044,
-    "timeWeek": 1219,
-    "timeMonth": 1217,
-    "timeYear": 1155,
+    "time": 1157,
+    "timeDay": 1446,
+    "timeWeek": 1223,
+    "timeMonth": 1226,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-06-01": 24,
       "2025-01-09": 25
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 577,
-    "timeDay": 545,
-    "timeWeek": 620,
+    "time": 578,
+    "timeDay": 670,
+    "timeWeek": 613,
     "timeMonth": 620,
-    "timeYear": 577,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-01-28": 20
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 664,
-    "timeDay": 502,
-    "timeWeek": 734,
-    "timeMonth": 704,
-    "timeYear": 664,
+    "time": 666,
+    "timeDay": 959,
+    "timeWeek": 753,
+    "timeMonth": 709,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2025-04-27": 15,
       "2025-01-11": 28
