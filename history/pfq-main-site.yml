@@ -1,7 +1,7 @@
 url: https://pokefarm.com/health
-status: up
-code: 200
-responseTime: 260
-lastUpdated: 2025-11-17T23:20:33.013Z
+status: down
+code: 500
+responseTime: 140
+lastUpdated: 2025-11-18T12:27:08.935Z
 startTime: 2024-12-26T14:38:19.050Z
 generator: Upptime <https://github.com/upptime/upptime>
